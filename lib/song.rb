@@ -128,5 +128,3 @@ end
 
 end
 
-binding.pry
-puts "goodbye"
